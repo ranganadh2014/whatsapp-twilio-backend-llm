@@ -1,5 +1,5 @@
-# Eco-Office-GPT-Team1
-EcoOffice-GPT 🌱 — An AI agent that helps small offices in Bangalore monitor and reduce energy costs. Connects to smart meters, HVAC, lighting, and solar sensors to answer energy queries via chat/WhatsApp, detect anomalies, and suggest smart, comfort-safe energy optimizations.
+# Minimalist Whatsapp LLM Chatbot 
+Simple Implementation of Whatsapp based LLM chatbot - Whatspp <-> Twilio <-> Python Backend <-> LLM
 
 # Installation Steps
 
